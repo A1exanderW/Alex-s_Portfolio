@@ -1,7 +1,7 @@
 # Alex_Portfolio
 Example Python Projects 
 
-#Project 1 : Pokemon game
+# [Project 1 : Pokemon game](www.theage.com.au)
 This was the 1st assignment for CSSE1001 (2016). It is a simple text based program which is based on Ash finding pikachu in a maze loaded from a text file. Spaces represent open squares, and # represent the walls of the maze. The player can move in directions N,S,E or W and can only make a valid move if the next square is open. Enemy pokemon (Z-Zubat and D-Doduo) are placed through the map that will cause the player to instantly lose if encountered.
 
 #Project 2:  Tiles game
