@@ -10,7 +10,7 @@ This was the 3rd assignment for CSSE1001 (2016). It is a tile-matching game in w
 # [Project 3:  Tesla powerwall datalogger](www.theage.com.au)
 This program uses Selenium to interact with web base browser and continuously retrieve key parameters from the tesla battery and solar inverter system. These parameters include battery load (kW), battery draw (kW), solar generated (kW), Solar to grid (kW) and GHG emissions saved per inverval (tCO2). The openpyxl package is employed to open an existing excel file, insert data and save the file.    
 
-# [Project 4:  Pallet configurations](www.theage.com.au)
+# [Project 4:  Pallet configuration](www.theage.com.au)
 This is a simple script that aims to aid the production engineer design specific pallet configurations that meet the internal constraints. 
 The pallets must not exceed... The layers can be 6,7 or 8, with a maximum of 72 bags per pallet. Pallet configuration is important in logistics, as incorrect
 pallet sizes or dimensions can result in significant lost time and affect the companies bottomline. 
