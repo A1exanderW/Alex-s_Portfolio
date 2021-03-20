@@ -12,5 +12,5 @@ This program uses Selenium to interact with web base browser and continuously re
 
 # [Project 4:  Pallet configuration](www.theage.com.au)
 This is a simple script that aims to aid the production engineer design specific pallet configurations that meet the internal constraints. 
-The pallets must not exceed... The layers can be 6,7 or 8, with a maximum of 72 bags per pallet. Pallet configuration is important in logistics, as incorrect
+The pallets must not exceed... The layers can be 6,7 or 8, with a maximum of 72 bags per pallet.  Maximum pallets is 20, and the pallets should be balanced (divided by 2). Pallet configuration is important in logistics, as incorrect
 pallet sizes or dimensions can result in significant lost time and affect the companies bottomline. 
