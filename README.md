@@ -15,7 +15,5 @@ This is a simple script that aims to aid the production engineer design specific
 The pallets must not exceed... The layers can be 6,7 or 8, with a maximum of 72 bags per pallet.  Maximum pallets is 20, and the pallets should be balanced (divided by 2). Pallet configuration is important in logistics, as incorrect
 pallet sizes or dimensions can result in significant lost time and affect the companies bottomline. 
 
-# [Project 5: Amplicon sequencing heatmaps]
-This script uses results give by UQ's ACE facility, to process the taxonomy to the farthest level, then creates heatmaps to allow for comparing different samples. 
 
 
